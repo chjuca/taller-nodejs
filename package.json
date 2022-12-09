@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/diegotony/taller-nodejs#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "date-and-time": "^0.6.3",
     "dateformat": "^3.0.3",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongoose": "^5.5.8",
     "mongoose-unique-validator": "^2.0.3"
   }
